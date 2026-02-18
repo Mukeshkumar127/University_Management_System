@@ -37,10 +37,10 @@ Open the project in a C++ compiler (CodeBlocks / Dev C++ / Visual Studio)
 - Run the executable
 - Choose an option from the menu:
 
-1 → Add Student
-2 → Search Student
-3 → Update Student
-4 → Exit
+1. Add Student
+2. Search Student
+3. Update Student
+4. Exit
 
 📁 File Handling
 
